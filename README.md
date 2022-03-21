@@ -43,4 +43,4 @@ Algunos enlaces que se encuentran en la presentación:
 
 Esta presentación fue preparada por por [Daniel Moreno](https://github.com/demorenoc), [Adriana Clavijo](https://github.com/seawaR) y Jose Zea para el [Grupo de Usuarios de R de Bogotá](http://www.meetup.com/Bogota-R-Users-Group/) y el contenido original esta bajo la licensia [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-[![CC BY](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC BY](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) [![Join the chat at https://gitter.im/SCRUG/ventanilla-r](https://badges.gitter.im/SCRUG/ventanilla-r.svg)](https://gitter.im/SCRUG/ventanilla-r?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
